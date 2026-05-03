@@ -1,16 +1,26 @@
-## Hi there 👋
+# Aditya Srinivas Manohar
 
-<!--
-**AdityaSrinivasManohar/AdityaSrinivasManohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Software Engineer. I work on sensor systems, calibration, and
+vehicle-level integration for autonomous trucks at [Torc Robotics](https://torc.ai).
 
-Here are some ideas to get you started:
+Previously: built Refraction AI's third-generation delivery robot from
+scratch — 0→1 in 10 months, 50% cost reduction over the prior generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MS Robotics, University of Michigan.
+
+---
+
+**What I build**
+- Multi-modal sensor calibration (lidar · camera · radar · IMU)
+- Autonomous vehicle platform tooling and systems integration
+- ROS/ROS2 systems — from embedded drivers to visualization
+
+**Active projects**
+- [`PatchMyPath`](https://github.com/AdityaSrinivasManohar/patchmypath) — community road-damage reporting app, vibe coded in Rust
+- [`flipdot-rpi`](https://github.com/AdityaSrinivasManohar/flipdot-rpi) — 28×14 flipdot display controlled via ROS on a Raspberry Pi
+
+**Published research**
+- *The Robot Of Theseus: a modular robotic testbed for legged locomotion* — Bioinspiration & Biomimetics, IOP Publishing, 2026
+- *Comparative study on the reachable workspaces of regular and irregular axially symmetric hexapod robots* — Springer JMST, 2021
+
+[Website](https://www.adityasrinivasmanohar.com) · [LinkedIn](https://linkedin.com/in/aditya-srinivas-manohar)
