@@ -16,6 +16,7 @@ MS Robotics, University of Michigan.
 - ROS/ROS2 systems — from embedded drivers to visualization
 
 **Active projects**
+- [`cal_viz`](https://github.com/AdityaSrinivasManohar/cal_viz) - A cli tool for projecting pointclouds onto images givrn an mcap
 - [`kitti2mcap`](https://github.com/AdityaSrinivasManohar/kitti2mcap) - A tool for converting kitti datasets into mcaps - **no ros dependency**
 - [`Rotations-py`](https://github.com/AdityaSrinivasManohar/rotations-py) - A pure-numpy Python library for 3D rotation representations
 - [`PatchMyPath`](https://github.com/AdityaSrinivasManohar/patchmypath) — community road-damage reporting app, vibe coded in Rust
